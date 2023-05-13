@@ -6,6 +6,8 @@ Map's View is a versatile Python application designed to help users explore geog
 
 ![](documentation_images/Example_1.png)
 
+'documentation_images/Example_1.png'
+
 ## Features
 
 - **Multi-layered Map Display:** Map's View provides a dynamic map display with support for multiple layers. You can overlay different map types and toggle between them to gain different perspectives on your data.
@@ -23,6 +25,8 @@ Map's View is a versatile Python application designed to help users explore geog
 ---
 
 ![](documentation_images/Example_2.gif)
+
+'documentation_images/Example_2.gif'
 
 ## Installation
 
