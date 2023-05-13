@@ -6,7 +6,7 @@ Map's View is a versatile Python application designed to help users explore geog
 
 ![](documentation_images/Example_1.png)
 
-'documentation_images/Example_1.png'
+`documentation_images/Example_1.png`
 
 ## Features
 
@@ -26,7 +26,7 @@ Map's View is a versatile Python application designed to help users explore geog
 
 ![](documentation_images/Example_2.gif)
 
-'documentation_images/Example_2.gif'
+`documentation_images/Example_2.gif`
 
 ## Installation
 
