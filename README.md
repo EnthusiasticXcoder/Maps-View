@@ -2,6 +2,10 @@
 
 Map's View is a versatile Python application designed to help users explore geographical data interactively. With its intuitive user interface and comprehensive feature set, Map's View is an ideal tool for visualizing and analyzing spatial information.
 
+---
+
+![](documentation_images/Example_1.png)
+
 ## Features
 
 - **Multi-layered Map Display:** Map's View provides a dynamic map display with support for multiple layers. You can overlay different map types and toggle between them to gain different perspectives on your data.
@@ -16,8 +20,9 @@ Map's View is a versatile Python application designed to help users explore geog
 
 - **Offline Maps:** Map's View supports offline maps, allowing you to work with geographical data even when you don't have an internet connection. This feature ensures that you can access and analyze your data regardless of your location.
 
-### Map's Demo
-![](https://drive.google.com/file/d/1qdSUeZMeZ6N52usCn7wNmRXzB7x7Ytdj/view)
+---
+
+![](documentation_images/Example_2.gif)
 
 ## Installation
 
@@ -41,23 +46,22 @@ Upon launching the application, you will be greeted with the interactive map int
 
 Here are a few code snippets that demonstrate the usage of specific features in Map's View:
 
-1. Adding a marker to the map:
+#### 1. Searching in the map:
 
-```python
-from mapview import MapView
+https://github.com/EnthusiasticXcoder/Attendence-Management-Software/assets/115250815/d048f1ae-600a-43c4-82cc-d277eb95aa4c
 
-map = MapView()
-map.add_marker(latitude=37.7749, longitude=-122.4194, label='San Francisco')
-```
+---
 
-2. Changing the layer style:
+#### 2. Changing the layer style:
 
-```python
-from mapview import MapView, LayerStyle
+https://github.com/EnthusiasticXcoder/Maps-View/assets/115250815/e8510fbe-f655-43cf-99f2-1c74699e01b5
 
-map = MapView()
-map.set_layer_style(LayerStyle.DARK)
-```
+---
+
+#### 3. Adding a marker to the map:
+
+https://github.com/EnthusiasticXcoder/Maps-View/assets/115250815/ef84325b-1db7-488f-b289-1d15c9d9ba31
+
 
 Feel free to explore the codebase and experiment with different functionalities to make the most out of Map's View.
 
