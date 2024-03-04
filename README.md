@@ -32,9 +32,20 @@ Map's View is a versatile Python application designed to help users explore geog
 
 To install Map's View, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/EnthusiasticXcoder/Maps-View.git`
-2. Navigate to the project directory: `cd Maps-View`
-3. Install the required dependencies: `pip install -r requirements.txt`
+1. Clone the repository: 
+    ```bash
+    git clone https://github.com/EnthusiasticXcoder/Maps-View.git
+    ```
+
+2. Navigate to the project directory: 
+    ```bash
+    cd Maps-View
+    ```
+
+3. Install the required dependencies: 
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 ## Usage
 
