@@ -41,7 +41,7 @@ To install Map's View, follow these steps:
 To run Map's View, execute the following command:
 
 ```shell
-python main.py
+python App/main.py
 ```
 
 Upon launching the application, you will be greeted with the interactive map interface. Use the provided controls and features to explore and analyze your geographical data.
@@ -52,8 +52,7 @@ Here are a few code snippets that demonstrate the usage of specific features in 
 
 #### 1. Searching in the map:
 
-https://github.com/EnthusiasticXcoder/Attendence-Management-Software/assets/115250815/d048f1ae-600a-43c4-82cc-d277eb95aa4c
-
+![Example_4](documentation_images/Example_4.png)
 ---
 
 #### 2. Changing the layer style:
